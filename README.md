@@ -33,3 +33,8 @@ Best grahics I've ever seen!
 My body is ready.
 
   *\- Reggie "Ready" Fils-Aime*
+
+
+### Developer Notes
+ *  This was made in about an hour. This is by no means a serious work - but it does actually work!
+ * This was written in Javascript. It displays correctly on Linux running Node.JS, but can easily be modified to display in a web browser.
