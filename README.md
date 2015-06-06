@@ -14,27 +14,31 @@ This has only the best graphics! You can choose from a huge range of 2 character
 
 ### Rad Reviews
 
-gr8 b8 m8 ill r8 9/11
+"gr8 b8 m8 ill r8 9/11"
 
   *\- IGN*
 
-So innovative
+"So innovative"
 
   *\- Gamefly*
 
-So elevating!
+"So elevating!"
 
   *\- Dragenda*
 
-Could use a bit of work
+"Could use a bit of work"
 
   *\- My brother in law*
 
-Best grahics I've ever seen!
+"Best grahics I've ever seen!"
 
   *\- Steve*
 
-My body is ready.
+"Less bugs than what i'm working on"
+
+  *\- mart3323*
+
+"My body is ready."
 
   *\- Reggie "Ready" Fils-Aime*
 
