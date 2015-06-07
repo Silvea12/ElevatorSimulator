@@ -45,4 +45,4 @@ This has only the best graphics! You can choose from a huge range of 2 character
 
 ### Developer Notes
  *  This was made in about an hour. This is by no means a serious work - but it does actually work!
- * This was written in Javascript. It displays correctly on Linux running Node.JS, but can easily be modified to display in a web browser.
+ * This was written in Javascript. It displays correctly on Linux running Node.JS, with the web version at http://silvea12.github.io/elevator/
