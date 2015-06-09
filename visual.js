@@ -34,6 +34,12 @@ module.exports = {
 				"/_\\",
 				"| |"
 			],
+			Penis: [
+				"  O",
+				"/--",
+				"\\--",
+				"  O"
+			],
 			Nobody: []
 		},
 	},
@@ -54,6 +60,6 @@ module.exports = {
 	},
 
 	randomPerson: function() {
-		return Math.floor(Math.random() * 2) ? "Male" : "Female";
+		return Math.floor(Math.random() * 2) ? Math.floor(Math.random() * 120) ? "Male" : "Penis" : "Female";
 	}
 };
